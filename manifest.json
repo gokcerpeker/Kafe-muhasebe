@@ -1,7 +1,7 @@
 {
-  "name": "Kafe Muhasebe",
-  "short_name": "Kafe Muhasebe",
-  "description": "Kafe on muhasebe uygulamasi",
+  "name": "Flamingo Park",
+  "short_name": "Flamingo Park",
+  "description": "Flamingo Park kafe on muhasebe uygulamasi",
   "start_url": "./kafe-muhasebe%20(2).html",
   "scope": "./",
   "display": "standalone",
